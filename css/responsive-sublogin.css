@@ -1,0 +1,20 @@
+@media screen and (max-width: 530px) {
+
+    img {
+        width: 170px;
+    }
+
+    .container {
+        width: 310px;
+        height: 585px;
+    }
+
+    .container-s {
+        width: 310px;
+        height: 625px;
+    }
+
+    .container-s img {
+        width: 150px;
+    }
+}

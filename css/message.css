@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Aguafina+Script&family=Kaushan+Script&family=Leckerli+One&family=Lobster&family=Pacifico&family=Praise&family=Rammetto+One&family=Titan+One&display=swap');
+
+
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background: rgba(218, 236, 251, 0.267);
+    text-align: center;
+    margin-top: 70px;
+}
+
+.home {
+    background: #7182ff;
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.home:hover {
+    background: #ffa9dd;
+}
