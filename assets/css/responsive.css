@@ -1,0 +1,112 @@
+@media screen and (max-width:1225px) {
+
+    .contact {
+        display: none;
+    }
+
+    .headline {
+        flex: 100%;
+        margin: 5%;
+        text-align: center;
+    }
+
+    .headline h2 {
+        text-align: center;
+    }
+
+    .headline p {
+        display: none;
+    }
+
+    .button-center {
+        margin-right: 30px;
+    }
+
+    .img-headline {
+        margin: 0;
+    }
+
+    .card {
+        width: 100%;
+    }
+}
+
+@media screen and (min-width:950px) {
+    .login-mobile {
+        display: none;
+    }
+}
+
+@media screen and (max-width:950px) {
+    .menu {
+        text-align: center;
+        margin: auto;
+    }
+
+    h1 {
+        width: 200px;
+        margin: auto;
+    }
+
+    #button {
+        display: none;
+    }
+
+    .headline {
+        text-align: center;
+    }
+
+    .headline h2 {
+        text-align: center;
+    }
+
+    .img-headline {
+        flex: 100%;
+        text-align: center;
+    }
+
+    section {
+        padding-top: 0px;
+    }
+}
+
+@media screen and (max-width: 820px) {
+    .menu {
+        padding: 0;
+    }
+}
+
+@media screen and (max-width: 550px) {
+
+    .navbar {
+        height: 110px;
+        display: flex;
+        position: static;
+        margin-bottom: -100px;
+    }
+
+    h1 {
+        word-spacing: 5px;
+    }
+
+    .menu-incidence {
+        display: none;
+    }
+
+    .menu-checklist {
+        display: none;
+    }
+
+    .menu-data {
+        display: none;
+    }
+
+
+    #button {
+        display: none;
+        padding: 5px;
+        font-size: 10px;
+    }
+
+
+}

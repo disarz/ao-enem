@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@mdi/font@6.9.96/css/materialdesignicons.min.css">
+    <link rel="stylesheet" href="../css/checklist.css">
+    <link rel="stylesheet" href="../css/responsive-checklist.css">
+    <title>Checklist</title>
+</head>
+
+<body>
+
+    <nav class="navbar">
+
+        <div class="logo">
+            <a href="../../index.html">
+                <h1>Ao Enem</h1>
+            </a>
+        </div>
+
+        <div class="menu">
+            <a href="incidence.html">Incidência</a>
+            <a href="checklist.html">Checklist</a>
+            <a href="data.html">Notas de corte</a>
+            <a id="buttonLogin" href="login.html">Entrar</a>
+        </div>
+
+    </nav>
+
+    <h2>Adicione as suas tarefas</h2>
+
+    <header>
+        <input id="inputCheck" type="text">
+        <button onclick="addTask()" id="btn-add" class="add">Adicionar</button>
+    </header>
+    <main id="areaList"></main>
+
+    <script src="../js/ck.js"></script>
+
+</body>
+
+</html>

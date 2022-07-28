@@ -1,0 +1,39 @@
+@media screen and (max-width: 1240px) {
+    iframe {
+        margin-top: 13%;
+    }
+
+    .menu {
+        display: none;
+    }
+
+    .navbar {
+        height: 80px;
+    }
+
+    h1 {
+        text-align: center;
+    }
+}
+
+
+@media screen and (max-width: 530px) {
+    iframe {
+        margin-left: 3%;
+        margin-top: 23%;
+        height: 88%;
+        width: 94%;
+    }
+
+    .menu {
+        display: none;
+    }
+
+    .navbar {
+        height: 80px;
+    }
+
+    h1 {
+        text-align: center;
+    }
+}

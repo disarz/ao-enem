@@ -1,0 +1,55 @@
+@media screen and (max-width: 1200px) {
+    header {
+        position: relative;
+        margin-top: 15%;
+        width: 40%;
+    }
+
+
+}
+
+@media screen and (max-width: 950px) {
+    .menu {
+        display: none;
+    }
+
+    header {
+        width: 40%;
+    }
+}
+
+@media screen and (max-width: 800px) {
+
+    header {
+        margin-top: 18%;
+        width: 50%;
+    }
+
+}
+
+@media screen and (max-width: 680px) {
+
+    header {
+        margin-top: 25%;
+        width: auto;
+    }
+
+    .task {
+        height: auto;
+        margin-bottom: 2%;
+    }
+
+}
+
+@media screen and (max-width: 480px) {
+
+    header {
+        margin-top: 35%;
+        width: auto;
+    }
+
+    .task {
+        height: auto;
+        margin-bottom: 2%;
+    }
+}
