@@ -4,6 +4,5 @@ Este projeto é um estudo próprio e de inferência ao meu portfólio em funçã
 
 Link do site: https://disarz.github.io/ao-enem/
 
-Caso queira me ajudar com dicas, me envie um email: joaodisarz@gmail.com. Estou aberto à propostas de emprego, necessito de experência para evoluir.
-
+Meu email: joaodisarz@gmail.com.
 Obrigado.
